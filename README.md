@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Obure Joseph](https://github.com/nishanj)
+- [Obure Joseph] (https://github.com/nishanj)
 - Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
